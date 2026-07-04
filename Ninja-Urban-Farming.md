@@ -6,79 +6,79 @@
 
 # DAFTAR ISI
 
-- **KATA PENGANTAR** — Mengapa Buku Ini Lahir
-- **BAB PENGANTAR** — Filosofi Ninja Urban Farming
-  - Apa Itu Closed-Loop System?
-  - Kenapa Disebut "Ninja"?
-  - Mata Rantai Closed-Loop
-  - Mengapa 100% Organik Itu Mungkin?
-  - Apa yang Akan kamu Dapatkan?
-- **CARA MENGGUNAKAN BUKU INI**
-  - Tiga Jalur Belajar
-  - Legenda Ikon
-  - Cara Membaca SOP Klinis
-- **BAGIAN 1: FONDASI** — Memulai Sistem Kamu
-  - **BAB 2:** Perencanaan & Zonasi Lahan
-    - Prinsip Dasar: Dua Zona Utama
-    - Variasi Ukuran Lahan
-    - Arah Mata Angin
-    - Akses Air
-    - Jalur Setapak
-  - **BAB 3:** Membangun Infrastruktur Dasar
-    - Konstruksi Raised Bed Papan Cor
-    - Alternatif Raised Bed Tanpa Papan Cor
-    - Setup Kolam Galon Lele Bioflok
-    - Alternatif Kolam Lele Tanpa Galon
-    - Cara Sederhana Cek Kebocoran Aerator
-    - Daftar Alat Dasar
-  - **BAB 4:** Setup Awal Maggot BSF
-    - Mengapa BSF?
-    - Biopond Auto-Harvest
-    - Siklus Kehidupan BSF dalam Kelambu
-    - Cara Membuat Kelambu Kawin dari Barang Bekas
-    - Bahan Pakan BSF dari Dapur
-    - Indikator Biopond Sehat
-    - Trik Anti-Bau Biopond
-  - **BAB 5:** Setup Awal Ayam Petelur Deep Litter
-    - Konsep Deep Litter System
-    - Bahan Alas & Ketebalan
-    - Pakan Ninja & Tambahan dari Dapur
-    - Fermentasi Dedak untuk Ayam
-    - Indikator Ayam Sehat
-    - Tips Mengatasi Bau Kandang
-    - Trik Menghemat Pakan
-- **BAGIAN 2: OPERASIONAL** — Menjalankan Sistem Harian
-  - **BAB 6:** Budidaya Lele Bioflok — Setup, Penebaran & Panen
-  - **BAB 7:** Manajemen Pakan Lele — Rumus & Teknik Fermentasi
-  - **BAB 8:** Pabrik Nutrisi Tanaman — Kompos, Fertigasi & Foliar
-  - **BAB 9:** Rotasi Sayuran & Pengendalian Hama Organik
-  - **BAB 10:** Jadwal Harian "Ninja" — Rutinitas 15 Menit/Hari
-- **BAGIAN 3: KLINIS** — Menangani Masalah
-  - **BAB 11:** SOP Klinis Penyakit Lele (A–H)
-  - **BAB 12:** SOP Klinis Penyakit Tanaman (A–F)
-- **BAGIAN 4: LABORATORIUM** — Booster & Formula Master
-  - **BAB 13:** 4 Formula Booster Tanaman
-  - **BAB 14:** 2 Formula Booster Tanah (Humo-Ninja, JMS-IMO)
-  - **BAB 15:** Ekstraksi & Aktivasi Asam Humat Mandiri
-  - **BAB 16:** Bio-Multiplikasi EM4 Mandiri (EM-Aktif)
-  - **BAB 17:** Nutrisi Generatif — Trik Tomat & Cabai Lebat
-  - **BAB 18:** Ekspansi Bahan Rumah Tangga — 10+ Formula Dapur Baru
-- **BAGIAN 5: EKSPANSI** — Diversifikasi Komoditas
-  - **BAB 19:** Katalog Sayuran Daun & Buah
-  - **BAB 20:** Katalog Buah-buahan Urban
-  - **BAB 21:** Ternak Alternatif — Puyuh & Kelinci
-  - **BAB 22:** Protokol Keamanan & Stabilitas Ekosistem
-- **BAGIAN 6: STUDI KASUS & REFERENSI**
-  - **BAB 23:** Studi Kasus Multi-Ukuran Lahan
-  - **BAB 24:** Kalender Tanam & Panen 12 Bulan
-  - **BAB 25:** FAQ & Troubleshooting — 15 Masalah Umum
-  - **BAB 26:** Daftar Peralatan, Estimasi Biaya & Log Book
-- **PENUTUP**
-- **GLOSARIUM**
-- **CHEAT SHEET DOSIS & RASIO**
-- **TABEL KONVERSI SATUAN DAPUR**
-- **RINGKASAN SEMUA FORMULA BOOSTER**
-- **TEMPLATE LOG MINGGUAN**
+- [[#KATA PENGANTAR — Mengapa Buku Ini Lahir|**KATA PENGANTAR** — Mengapa Buku Ini Lahir]]
+- [[#BAB PENGANTAR: Filosofi Ninja Urban Farming|**BAB PENGANTAR** — Filosofi Ninja Urban Farming]]
+  - [[#Apa Itu Closed-Loop System?]]
+  - [[#Kenapa Disebut "Ninja"?]]
+  - [[#Mata Rantai Closed-Loop]]
+  - [[#Mengapa 100% Organik Itu Mungkin?]]
+  - [[#Apa yang Akan kamu Dapatkan?]]
+- [[#CARA MENGGUNAKAN BUKU INI|**CARA MENGGUNAKAN BUKU INI**]]
+  - [[#Tiga Jalur Belajar]]
+  - [[#Legenda Ikon]]
+  - [[#Cara Membaca SOP Klinis]]
+- [[#BAGIAN 1: FONDASI — Memulai Sistem Kamu|**BAGIAN 1: FONDASI** — Memulai Sistem Kamu]]
+  - [[#BAB 2: Perencanaan & Zonasi Lahan|**BAB 2:** Perencanaan & Zonasi Lahan]]
+    - [[#Prinsip Dasar: Dua Zona Utama]]
+    - [[#Variasi Ukuran Lahan]]
+    - [[#Arah Mata Angin]]
+    - [[#Akses Air]]
+    - [[#Jalur Setapak]]
+  - [[#BAB 3: Membangun Infrastruktur Dasar|**BAB 3:** Membangun Infrastruktur Dasar]]
+    - [[#A. Konstruksi Raised Bed Papan Cor (Standar Ninja: 200 x 100 x 20 cm)|Konstruksi Raised Bed Papan Cor]]
+    - [[#Alternatif Raised Bed Tanpa Papan Cor]]
+    - [[#B. Setup Kolam Galon Lele Bioflok (Sistem 3 Galon + Aerator 18W)|Setup Kolam Galon Lele Bioflok]]
+    - [[#Alternatif Kolam Lele Tanpa Galon]]
+    - [[#Cara Sederhana Cek Kebocoran Aerator]]
+    - [[#Daftar Alat Dasar]]
+  - [[#BAB 4: Setup Awal Maggot BSF|**BAB 4:** Setup Awal Maggot BSF]]
+    - [[#Mengapa BSF? — Fondasi Closed-Loop System|Mengapa BSF?]]
+    - [[#Biopond Auto-Harvest — Prinsip Rayapan Alami Prepupa|Biopond Auto-Harvest]]
+    - [[#Siklus Kehidupan BSF dalam Kelambu]]
+    - [[#Cara Membuat Kelambu Kawin dari Barang Bekas]]
+    - [[#Bahan Pakan BSF dari Dapur]]
+    - [[#Indikator Biopond Sehat]]
+    - [[#Trik Anti-Bau Biopond]]
+  - [[#BAB 5: Setup Awal Ayam Petelur Deep Litter|**BAB 5:** Setup Awal Ayam Petelur Deep Litter]]
+    - [[#Konsep Deep Litter System]]
+    - [[#Bahan Alas & Ketebalan]]
+    - [[#Pakan Ninja & Tambahan dari Dapur]]
+    - [[#Fermentasi Dedak untuk Ayam]]
+    - [[#Indikator Ayam Sehat]]
+    - [[#Tips Mengatasi Bau Kandang]]
+    - [[#Trik Menghemat Pakan]]
+- [[#BAGIAN 2: OPERASIONAL — Menjalankan Sistem Harian|**BAGIAN 2: OPERASIONAL** — Menjalankan Sistem Harian]]
+  - [[#BAB 6: Budidaya Lele Bioflok — Setup, Penebaran & Panen|**BAB 6:** Budidaya Lele Bioflok — Setup, Penebaran & Panen]]
+  - [[#BAB 7: Manajemen Pakan Lele — Rumus & Teknik Fermentasi|**BAB 7:** Manajemen Pakan Lele — Rumus & Teknik Fermentasi]]
+  - [[#BAB 8: Pabrik Nutrisi Tanaman — Kompos, Fertigasi & Foliar|**BAB 8:** Pabrik Nutrisi Tanaman — Kompos, Fertigasi & Foliar]]
+  - [[#BAB 9: Rotasi Sayuran & Pengendalian Hama Organik|**BAB 9:** Rotasi Sayuran & Pengendalian Hama Organik]]
+  - [[#BAB 10: Jadwal Harian "Ninja" — Rutinitas 15 Menit/Hari|**BAB 10:** Jadwal Harian "Ninja" — Rutinitas 15 Menit/Hari]]
+- [[#BAGIAN 3: KLINIS — Menangani Masalah|**BAGIAN 3: KLINIS** — Menangani Masalah]]
+  - [[#BAB 11: SOP Klinis Penyakit Lele (A–H)|**BAB 11:** SOP Klinis Penyakit Lele (A–H)]]
+  - [[#BAB 12: SOP Klinis Penyakit Tanaman (A–F)|**BAB 12:** SOP Klinis Penyakit Tanaman (A–F)]]
+- [[#BAGIAN 4: LABORATORIUM — Booster & Formula Master|**BAGIAN 4: LABORATORIUM** — Booster & Formula Master]]
+  - [[#BAB 13: 4 Formula Booster Tanaman (K-Booster, Aminor-Grow, Cal-Phos, Mag-Elixir)|**BAB 13:** 4 Formula Booster Tanaman]]
+  - [[#BAB 14: 2 Formula Booster Tanah (Humo-Ninja, JMS-IMO)|**BAB 14:** 2 Formula Booster Tanah (Humo-Ninja, JMS-IMO)]]
+  - [[#BAB 15: Ekstraksi & Aktivasi Asam Humat Mandiri|**BAB 15:** Ekstraksi & Aktivasi Asam Humat Mandiri]]
+  - [[#BAB 16: Bio-Multiplikasi EM4 Mandiri (EM-Aktif High Saving)|**BAB 16:** Bio-Multiplikasi EM4 Mandiri (EM-Aktif)]]
+  - [[#BAB 17: Nutrisi Generatif — Trik Tomat & Cabai Lebat|**BAB 17:** Nutrisi Generatif — Trik Tomat & Cabai Lebat]]
+  - [[#BAB 18: Ekspansi Bahan Rumah Tangga — 10+ Formula Dapur Baru|**BAB 18:** Ekspansi Bahan Rumah Tangga — 10+ Formula Dapur Baru]]
+- [[#BAGIAN 5: EKSPANSI — Diversifikasi Komoditas|**BAGIAN 5: EKSPANSI** — Diversifikasi Komoditas]]
+  - [[#BAB 19: Katalog Sayuran Daun & Buah|**BAB 19:** Katalog Sayuran Daun & Buah]]
+  - [[#BAB 20: Katalog Buah-buahan Urban|**BAB 20:** Katalog Buah-buahan Urban]]
+  - [[#BAB 21: Ternak Alternatif — Puyuh & Kelinci|**BAB 21:** Ternak Alternatif — Puyuh & Kelinci]]
+  - [[#BAB 22: Protokol Keamanan & Stabilitas Ekosistem|**BAB 22:** Protokol Keamanan & Stabilitas Ekosistem]]
+- [[#BAGIAN 6: STUDI KASUS & REFERENSI|**BAGIAN 6: STUDI KASUS & REFERENSI**]]
+  - [[#BAB 23: Studi Kasus Multi-Ukuran Lahan|**BAB 23:** Studi Kasus Multi-Ukuran Lahan]]
+  - [[#BAB 24: Kalender Tanam & Panen 12 Bulan|**BAB 24:** Kalender Tanam & Panen 12 Bulan]]
+  - [[#BAB 25: FAQ & Troubleshooting — 15 Masalah Umum|**BAB 25:** FAQ & Troubleshooting — 15 Masalah Umum]]
+  - [[#BAB 26: Daftar Peralatan, Estimasi Biaya & Log Book|**BAB 26:** Daftar Peralatan, Estimasi Biaya & Log Book]]
+- [[#PENUTUP|**PENUTUP**]]
+- [[#GLOSARIUM|**GLOSARIUM**]]
+- [[#CHEAT SHEET DOSIS & RASIO|**CHEAT SHEET DOSIS & RASIO**]]
+- [[#TABEL KONVERSI SATUAN DAPUR|**TABEL KONVERSI SATUAN DAPUR**]]
+- [[#RINGKASAN SEMUA FORMULA BOOSTER|**RINGKASAN SEMUA FORMULA BOOSTER**]]
+- [[#TEMPLATE LOG MINGGUAN (LEMBAR CATATAN)|**TEMPLATE LOG MINGGUAN**]]
 
 ---
 

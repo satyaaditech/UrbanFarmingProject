@@ -15,7 +15,7 @@
 | | |
 | 0 | [[#BAB 0: CERITA KITA — Kenapa Game Ini HARUS Ada\|BAB 0: CERITA KITA — Kenapa Game Ini HARUS Ada]] |
 | | |
-| 1 | [[#BAB 1: MASALAH — Empat Krisis yang Kita Hadapi\|BAB 1: MASALAH — Empat Krisis yang Kita Hadapi]] |
+| 1 | [[#BAB 1: MASALAH — Lima Krisis yang Kita Hadapi\|BAB 1: MASALAH — Lima Krisis yang Kita Hadapi]] |
 | | |
 | 2 | [[#BAB 2: SOLUSI — Game yang Bikin Kamu Bisa Bertani Beneran\|BAB 2: SOLUSI — Game yang Bikin Kamu Bisa Bertani Beneran]] |
 | | · [[#2.1 Apa itu Ninja Urban Farming?\|2.1 Apa itu Ninja Urban Farming?]] |
@@ -44,7 +44,7 @@
 | | |
 | 10 | [[#BAB 10: TIM — Siapa di Belakang Ini?\|BAB 10: TIM — Siapa di Belakang Ini?]] |
 | | |
-| 11 | [[#BAB 11: PENUTUP — Satu Game, Empat Krisis, Jutaan Keluarga\|BAB 11: PENUTUP — Satu Game, Empat Krisis, Jutaan Keluarga]] |
+| 11 | [[#BAB 11: PENUTUP — Satu Game, Lima Krisis, Jutaan Keluarga\|BAB 11: PENUTUP — Satu Game, Lima Krisis, Jutaan Keluarga]] |
 | | |
 | 📎 | [[#LAMPIRAN: Ringkasan Dokumen Teknis\|LAMPIRAN — Ringkasan Dokumen Teknis]] |
 
@@ -65,6 +65,8 @@
 **Dan yang paling gila:** Semua yang kamu pelajari di game ini **bisa langsung kamu praktikkan di rumah beneran.**
 
 Itulah **Ninja Urban Farming** — game Roblox pertama di dunia yang mengajarkan urban farming 100% organik melalui simulasi siklus tertutup. Bukan cuma hiburan. Bukan cuma edukasi. Tapi **skill bertahan hidup untuk masa depan.**
+
+> **Riset Juli 2026:** Kami telah menganalisis seluruh game farming di Roblox. Hasilnya: **0 game aquaponics, 0 game closed-loop system, 0 game urban farming, 0 game dengan akurasi ilmiah.** Game farming terpopuler (22.3 juta concurrent players) dibuat dalam 3 hari oleh anak 16 tahun — zero edukasi. Pasar masif, konten kosong. **Kami mengisi kekosongan itu.** *(Analisis lengkap: `22-Kompetitor-Analysis.md`)*
 
 ---
 
@@ -87,14 +89,14 @@ Generasi kita lahir dengan HP di tangan. Kita belajar dari YouTube, TikTok, game
 
 ---
 
-## BAB 1: MASALAH — Empat Krisis yang Kita Hadapi
+## BAB 1: MASALAH — Lima Krisis yang Kita Hadapi
 
-Kita hidup di zaman di mana **empat krisis terjadi bersamaan.** Dan generasi kitalah yang paling kena dampaknya.
+Kita hidup di zaman di mana **lima krisis terjadi bersamaan.** Dan generasi kitalah yang paling kena dampaknya.
 
-**[Diagram 19.1: Empat Krisis Global]**
+**[Diagram 19.1: Lima Krisis Global]**
 ```mermaid
 mindmap
-  root((4 Krisis<br/>Global))
+  root((5 Krisis<br/>Global))
     Krisis Pangan
       Harga makanan naik
       Impor tinggi
@@ -107,6 +109,9 @@ mindmap
     Krisis Pendidikan
       Teori tanpa praktik
       Kurangnya life skill
+    Krisis Konten
+      Game farming = idle clicker
+      Zero edukasi pertanian
 ```
 
 | Krisis | Kenapa Ini Nyata Buat Kita | Data |
@@ -115,6 +120,7 @@ mindmap
 | **🌍 Krisis Iklim** | Banjir, panas ekstrem, gagal panen — makin sering terjadi. Generasi kita yang akan hidup di bumi yang lebih panas. | Pertanian konvensional = 24% emisi gas rumah kaca. Pupuk kimia mencemari air tanah kita. |
 | **⚡ Krisis Energi** | Listrik makin mahal. BBM disubsidi triliunan. Gimana cara produksi pangan tanpa boros energi? | Aerator 18 watt = Rp 15.000/bulan untuk 3 galon lele. Energi rendah, hasil maksimal. |
 | **📚 Krisis Pendidikan** | Kita belajar biologi, kimia, fisika... tapi nggak pernah diajarin skill hidup paling dasar: **cara memberi makan diri sendiri.** | Survei global (British Nutrition Foundation) menunjukkan 30-40% anak muda tidak memahami asal-usul makanan mereka. Di Indonesia, pertanian sering dianggap profesi "kuno" — jauh dari minat generasi digital. |
+| **🎮 Krisis Konten** | Game farming di Roblox ada puluhan — tapi semuanya idle clicker tanpa edukasi. Yang terpopuler dibuat 3 hari. Bahkan ada game yang dikritik universitas karena **mengajarkan informasi SALAH** (*Natural Disaster Survival* — University of Auckland). | Grow a Garden: 22.3 juta concurrent players, zero ilmu pertanian. **Pasar menunggu konten berkualitas.** |
 
 ### Pertanyaannya: Gimana caranya kita — anak SMA — bisa jadi bagian dari solusi?
 
@@ -202,6 +208,8 @@ Karena **belajar dengan melakukan** (learning by doing) itu **7× lebih efektif*
 
 **Singkatnya:** Game farming lain = **fantasi.** Ninja Urban Farming = **simulasi yang bisa kamu bawa ke dunia nyata.**
 
+> **Bukti dari pasar:** Game farming terpopuler di Roblox saat ini — *Grow a Garden* — dibuat dalam 3 hari oleh anak 16 tahun. Zero akurasi ilmiah, zero edukasi. Tapi berhasil mengumpulkan **22.3 juta concurrent players** (rekor dunia, melampaui Fortnite). Ini membuktikan: **pemain Roblox LAPAR akan konten farming — mereka hanya belum punya opsi yang bermakna.**
+
 ---
 
 ## BAB 3: BUKTI INI BUKAN HALUSINASI — Validasi Ilmiah
@@ -266,7 +274,7 @@ Kami menggunakan buku panduan **Ninja Urban Farming** sebagai basis — buku yan
 | **Buku Ninja Urban Farming** | Konten ilmiah berkualitas — content moat yang sulit ditiru |
 | **Database 17 dokumen teknis** | 15.000+ baris GDD — blueprint siap eksekusi |
 | **Tim developer + SME** | Kombinasi ahli game development dan ahli urban farming |
-| **Platform Roblox** | 70 juta pemain aktif harian — audiens bawaan |
+| **Platform Roblox** | 111.8 juta pemain aktif harian — audiens bawaan |
 
 ### Key Activities (Apa yang Kami Lakukan?)
 
@@ -323,17 +331,20 @@ Justru ini peluangnya.
 **[Diagram 19.3: Potensi Pasar Game Edukasi Pertanian]**
 ```mermaid
 graph TD
-    A[Pasar Global: 70 Juta Pemain Aktif Harian Roblox]:::biru --> B[Pasar Indonesia: 12 Juta Pemain Aktif]:::kuning
+    A[Pasar Global: 111.8 Juta Pemain Aktif Harian Roblox]:::biru --> B[Pasar Indonesia: 12 Juta Pemain Aktif]:::kuning
     B --> C[Target Awal: 200.000 Pemain Aktif Bulanan]:::hijau
+    A --> D[Bukti Demand: Grow a Garden<br/>22.3 Juta CCU — Rekor Dunia]:::merah
     
     classDef biru fill:#cce5ff,stroke:#007bff,stroke-width:2px,color:#333;
     classDef kuning fill:#fff3cd,stroke:#ffc107,stroke-width:2px,color:#333;
     classDef hijau fill:#d4edda,stroke:#28a745,stroke-width:2px,color:#333;
+    classDef merah fill:#f8d7da,stroke:#dc3545,stroke-width:2px,color:#333;
 ```
 
 | Fakta | Sumber |
 |-------|--------|
-| 70 juta orang main Roblox SETIAP HARI. 50% di bawah 16 tahun. | Roblox Corp, Q1 2024 |
+| 111.8 juta orang main Roblox SETIAP HARI. 50% di bawah 16 tahun. | Roblox Corp, Q2 2025 |
+| Game farming idle (Grow a Garden) pecahkan rekor 22.3 juta concurrent players — melampaui Fortnite. Dibuat dalam 3 hari oleh developer 16 tahun. | Game File, PCGamesN, Mar 2025 |
 | Pasar game-based learning tumbuh 21% per tahun → US$ 29.7 miliar pada 2027. | Global Market Insights |
 | Jutaan keluarga Indonesia mulai berkebun di rumah saat pandemi. Namun, mayoritas pemula gagal karena kurangnya pengetahuan praktis. | Kementan RI — survei ketahanan pangan rumah tangga, 2021-2022 |
 | Harga pangan RI naik 5-15% per tahun. Cabai bisa Rp 100.000/kg saat paceklik. | BPS, 2024 |
@@ -343,7 +354,7 @@ graph TD
 
 Orang Indonesia menghabiskan **triliunan rupiah per tahun** untuk Robux (mata uang Roblox) — Indonesia adalah salah satu pasar dengan pertumbuhan tercepat secara global (Roblox Corp, 2024). Game edukasi seperti *Adopt Me*, *Brookhaven*, *Bloxburg* menghasilkan **miliaran rupiah per bulan** dari pemain Indonesia saja.
 
-Pasar kita bukan "orang yang mau belajar pertanian." Pasar kita adalah **70 juta pemain Roblox yang bosan dengan game clicker dan pengen pengalaman yang LEBIH BERMAKNA.**
+Pasar kita bukan "orang yang mau belajar pertanian." Pasar kita adalah **111.8 juta pemain Roblox yang bosan dengan game clicker dan pengen pengalaman yang LEBIH BERMAKNA.**
 
 ---
 
@@ -422,7 +433,7 @@ Game farming paling populer di Roblox saat ini — **Grow a Garden** — dibuat 
 | SDG | Kontribusi Kami |
 |-----|----------------|
 | **SDG 2 — Tanpa Kelaparan** | 1 keluarga bisa produksi 4.5 kg ikan + 3 telur/hari + sayuran kontinu — berkontribusi signifikan pada pemenuhan protein keluarga dari sumber mandiri. |
-| **SDG 4 — Pendidikan Berkualitas** | Platform game-based learning dengan kurikulum yang selaras standar nasional dan internasional (NGSS, IB, Cambridge). |
+| **SDG 4 — Pendidikan Berkualitas** | Platform game-based learning dengan kurikulum yang selaras standar nasional dan internasional (NGSS, IB, Cambridge). Pasar global game-based learning: **US$ 29.7 miliar (2027), tumbuh 21%/tahun.** |
 | **SDG 12 — Konsumsi & Produksi Bertanggung Jawab** | Zero waste closed-loop system. Setiap gram limbah menjadi input. Pemain belajar circular economy melalui praktik. |
 | **SDG 13 — Aksi Iklim** | 100% organik = nol emisi N₂O. Urban farming = food miles minimal. Biochar = carbon sequestration. |
 | **SDG 3 — Kesehatan & Kesejahteraan** | Pangan organik bebas pestisida. Aktivitas berkebun untuk kesehatan mental. |
@@ -505,7 +516,7 @@ gantt
 
 ---
 
-## BAB 11: PENUTUP — Satu Game, Empat Krisis, Jutaan Keluarga
+## BAB 11: PENUTUP — Satu Game, Lima Krisis, Jutaan Keluarga
 
 Tema SMBPC tahun ini adalah:
 
