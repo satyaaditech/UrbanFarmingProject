@@ -9,42 +9,42 @@
 
 | | |
 |---|---|
-| 🟢 | [[#RINGKASAN EKSEKUTIF — Baca Ini Dulu (2 Menit)\|RINGKASAN EKSEKUTIF — Baca Ini Dulu (2 Menit)]] |
+| 🟢 | [RINGKASAN EKSEKUTIF — Baca Ini Dulu (2 Menit)](#ringkasan-eksekutif--baca-ini-dulu-2-menit) |
 | | |
-| 0 | [[#BAB 0: CERITA KITA — Kenapa Game Ini HARUS Ada\|BAB 0: CERITA KITA — Kenapa Game Ini HARUS Ada]] |
+| 0 | [BAB 0: CERITA KITA — Kenapa Game Ini HARUS Ada](#bab-0-cerita-kita--kenapa-game-ini-harus-ada) |
 | | |
-| 1 | [[#BAB 1: MASALAH — Empat Krisis yang Kita Hadapi\|BAB 1: MASALAH — Empat Krisis yang Kita Hadapi]] |
+| 1 | [BAB 1: MASALAH — Empat Krisis yang Kita Hadapi](#bab-1-masalah--empat-krisis-yang-kita-hadapi) |
 | | |
-| 2 | [[#BAB 2: SOLUSI — Game yang Bikin Kamu Bisa Bertani Beneran\|BAB 2: SOLUSI — Game yang Bikin Kamu Bisa Bertani Beneran]] |
-| | · [[#2.1 Apa itu Ninja Urban Farming?\|2.1 Apa itu Ninja Urban Farming?]] |
-| | · [[#2.2 Tapi Kenapa HARUS Game? Kenapa Nggak Bikin Video Tutorial Aja?\|2.2 Kenapa HARUS Game?]] |
-| | · [[#2.3 Apa yang Bikin Game Ini BEDA dari Game Farming Lain?\|2.3 Apa yang Bikin Game Ini BEDA?]] |
+| 2 | [BAB 2: SOLUSI — Game yang Bikin Kamu Bisa Bertani Beneran](#bab-2-solusi--game-yang-bikin-kamu-bisa-bertani-beneran) |
+| | · [2.1 Apa itu Ninja Urban Farming?](#21-apa-itu-ninja-urban-farming) |
+| | · [2.2 Kenapa HARUS Game?](#22-tapi-kenapa-harus-game-kenapa-nggak-bikin-video-tutorial-aja) |
+| | · [2.3 Apa yang Bikin Game Ini BEDA?](#23-apa-yang-bikin-game-ini-beda-dari-game-farming-lain) |
 | | |
-| 3 | [[#BAB 3: BUKTI INI BUKAN HALUSINASI — Validasi Ilmiah\|BAB 3: BUKTI — Validasi Ilmiah]] |
+| 3 | [BAB 3: BUKTI — Validasi Ilmiah](#bab-3-bukti-ini-bukan-halusinasi--validasi-ilmiah) |
 | | |
-| 4 | [[#BAB 4: BISNIS MODEL CANVAS (BMC)\|BAB 4: BISNIS MODEL CANVAS (BMC)]] |
-| | · [[#Customer Segments (Siapa Pelanggan Kami?)\|Customer Segments]] &nbsp;· [[#Value Proposition (Apa yang Kami Tawarkan?)\|Value Proposition]] &nbsp;· [[#Revenue Streams (Dari Mana Uangnya?)\|Revenue Streams]] |
-| | · [[#Key Resources (Apa yang Kami Punya?)\|Key Resources]] &nbsp;· [[#Key Activities (Apa yang Kami Lakukan?)\|Key Activities]] &nbsp;· [[#Key Partners (Siapa Mitra Kami?)\|Key Partners]] |
-| | · [[#Customer Relationships (Bagaimana Kami Menjaga Pelanggan?)\|Customer Relationships]] &nbsp;· [[#Channels (Bagaimana Pelanggan Menemukan Kami?)\|Channels]] &nbsp;· [[#Cost Structure (Biaya Apa Saja?)\|Cost Structure]] |
+| 4 | [BAB 4: BISNIS MODEL CANVAS (BMC)](#bab-4-bisnis-model-canvas-bmc) |
+| | · [Customer Segments](#customer-segments-siapa-pelanggan-kami) · [Value Proposition](#value-proposition-apa-yang-kami-tawarkan) · [Revenue Streams](#revenue-streams-dari-mana-uangnya) |
+| | · [Key Resources](#key-resources-apa-yang-kami-punya) · [Key Activities](#key-activities-apa-yang-kami-lakukan) · [Key Partners](#key-partners-siapa-mitra-kami) |
+| | · [Customer Relationships](#customer-relationships-bagaimana-kami-menjaga-pelanggan) · [Channels](#channels-bagaimana-pelanggan-menemukan-kami) · [Cost Structure](#cost-structure-biaya-apa-saja) |
 | | |
-| 5 | [[#BAB 5: ANALISIS PASAR — Seberapa Besar Peluangnya?\|BAB 5: ANALISIS PASAR — Seberapa Besar Peluangnya?]] |
+| 5 | [BAB 5: ANALISIS PASAR — Seberapa Besar Peluangnya?](#bab-5-analisis-pasar--seberapa-besar-peluangnya) |
 | | |
-| 6 | [[#BAB 6: PROYEKSI KEUANGAN SEDERHANA\|BAB 6: PROYEKSI KEUANGAN]] |
-| | · [[#6.1 Asumsi Dasar\|6.1 Asumsi Dasar]] &nbsp;· [[#6.2 Proyeksi 3 Tahun\|6.2 Proyeksi 3 Tahun]] |
+| 6 | [BAB 6: PROYEKSI KEUANGAN](#bab-6-proyeksi-keuangan-sederhana) |
+| | · [6.1 Asumsi Dasar](#61-asumsi-dasar) · [6.2 Proyeksi 3 Tahun](#62-proyeksi-3-tahun) |
 | | |
-| 7 | [[#BAB 7: KENAPA KAMI BISA MENANG? — Competitive Advantage\|BAB 7: COMPETITIVE ADVANTAGE]] |
+| 7 | [BAB 7: COMPETITIVE ADVANTAGE](#bab-7-kenapa-kami-bisa-menang--competitive-advantage) |
 | | |
-| 8 | [[#BAB 8: DAMPAK — Kenapa Game Ini Penting Buat Dunia\|BAB 8: DAMPAK — Kenapa Game Ini Penting Buat Dunia]] |
-| | · [[#8.1 Selaras dengan 7 SDGs (Tujuan Pembangunan Berkelanjutan PBB)\|8.1 Selaras dengan 7 SDGs]] &nbsp;· [[#8.2 Impact Metrics — Yang Akan Kami Ukur\|8.2 Impact Metrics]] |
+| 8 | [BAB 8: DAMPAK — Kenapa Game Ini Penting Buat Dunia](#bab-8-dampak--kenapa-game-ini-penting-buat-dunia) |
+| | · [8.1 Selaras dengan 7 SDGs](#81-selaras-dengan-7-sdgs-tujuan-pembangunan-berkelanjutan-pbb) · [8.2 Impact Metrics](#82-impact-metrics--yang-akan-kami-ukur) |
 | | |
-| 9 | [[#BAB 9: RENCANA EKSEKUSI — Gimana Caranya?\|BAB 9: RENCANA EKSEKUSI — Gimana Caranya?]] |
-| | · [[#Fase 1: BUKTIKAN (Juli–Desember 2026)\|Fase 1: Buktikan]] &nbsp;· [[#Fase 2: LUNCURKAN (Januari–Juni 2027)\|Fase 2: Luncurkan]] &nbsp;· [[#Fase 3: SKALA (Juli 2027+)\|Fase 3: Skala]] |
+| 9 | [BAB 9: RENCANA EKSEKUSI — Gimana Caranya?](#bab-9-rencana-eksekusi--gimana-caranya) |
+| | · [Fase 1: Buktikan](#fase-1-buktikan-julidesember-2026) · [Fase 2: Luncurkan](#fase-2-luncurkan-januarijuni-2027) · [Fase 3: Skala](#fase-3-skala-juli-2027) |
 | | |
-| 10 | [[#BAB 10: TIM — Siapa di Belakang Ini?\|BAB 10: TIM — Siapa di Belakang Ini?]] |
+| 10 | [BAB 10: TIM — Siapa di Belakang Ini?](#bab-10-tim--siapa-di-belakang-ini) |
 | | |
-| 11 | [[#BAB 11: PENUTUP — Satu Game, Empat Krisis, Jutaan Keluarga\|BAB 11: PENUTUP — Satu Game, Empat Krisis, Jutaan Keluarga]] |
+| 11 | [BAB 11: PENUTUP — Satu Game, Empat Krisis, Jutaan Keluarga](#bab-11-penutup--satu-game-empat-krisis-jutaan-keluarga) |
 | | |
-| 📎 | [[#LAMPIRAN: Ringkasan Dokumen Teknis\|LAMPIRAN — Ringkasan Dokumen Teknis]] |
+| 📎 | [LAMPIRAN — Ringkasan Dokumen Teknis](#lampiran-ringkasan-dokumen-teknis) |
 
 ---
 
