@@ -5,7 +5,7 @@ import mdx from '@astrojs/mdx';
 export default defineConfig({
   // Konfigurasi untuk GitHub Pages
   // Pastikan nama repository di GitHub = "ninja-urban-farming" agar sesuai dengan base path ini
-  site: 'https://satyaadiditech.github.io',
+  site: 'https://satyaaditech.github.io',
   base: '/ninja-urban-farming',
   
   integrations: [mdx()],
